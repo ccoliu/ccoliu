@@ -66,3 +66,16 @@
   <img src="https://github.com/whps970083/multimedia/blob/main/gif/CodoctopusDemo.gif" alt="Codoctopus Demo GIF" width="800" height="400"/>
 </p>
 
+<h4 align="left">
+  <a href="https://github.com/ccoliu/Minesweeper" target="_blank">Minesweeper</a>
+</h4>
+<p align="left">
+  Minesweeper is a classic original game that player must completely find all the blocks that is not mine.
+</p>
+
+<h4 align="left">
+  <a href="https://github.com/ccoliu/Chess" target="_blank">Chess</a>
+</h4>
+<p align="left">
+  Chess is an abstract strategy game game that two players play on the board until one of player's king has been eliminated.
+</p>
