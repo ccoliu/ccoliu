@@ -54,7 +54,7 @@
   </a>
 </p>
 
-<h2 align="left">Project and work</h3>
+<h2 align="left">Projects and works</h3>
 
 <h4 align="left">
   <a href="https://ccoliu.github.io/Webs/index.html" target="_blank">Codoctopus Website</a>
@@ -81,4 +81,7 @@
 </h4>
 <p align="left">
   Chess is an abstract strategy game game that two players play on the board until one of player's king has been eliminated.
+</p>
+<p align="center">
+  <img src="chesspreview.png" alt="Minesweeper"/>
 </p>
