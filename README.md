@@ -2,7 +2,7 @@
 <h3 align="center">Email: frgnd5433@gmail.com</h3>
 
 <h2 align="left">Education</h2>
-<div>
+<div display="flex" justify-content="space-between">
 <h3 align="left" font-weight="bold" display="inline-block">National Taiwan University of Science and Technology (Taiwan Tech)</h3>
 <p align="right" display="inline-block">Taipei,Taiwan</p>
 </div>
