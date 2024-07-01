@@ -6,7 +6,7 @@
 <h3 font-weight="bold">National Taiwan University of Science and Technology (Taiwan Tech)</h3>
 <h4>Bachelor of Science, Computer Science and Information Engineering</h4>
 <p>Sep. 2019 - Jun. 2025</p>
-<p>Coursework: Data Structure, Object Oriented programming, Compiler Design, Operating System, Data Science, AI usage and application apply</p>
+<p>Data Structure, Object Oriented programming, Compiler Design, Operating System, Data Science, AI usage and application apply</p>
 </div>
 
 <h2 align="left">Technical Skills</h2>
