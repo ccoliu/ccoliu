@@ -63,7 +63,7 @@
   Codoctopus is a fully automated task division robot. It automatically splits your work into different tasks and executes them step by step, currently used for writing code and other tasks.
 </p>
 <p align="center">
-  <img src="https://github.com/whps970083/multimedia/blob/main/gif/CodoctopusDemo.gif" alt="Codoctopus Demo GIF" width="800" height="1200"/>
+  <img src="https://github.com/whps970083/multimedia/blob/main/gif/CodoctopusDemo.gif" alt="Codoctopus Demo GIF" width="800" height="800"/>
 </p>
 
 <h4 align="left">
@@ -73,7 +73,7 @@
   Minesweeper is a classic original game that player must completely find all the blocks that is not mine.
 </p>
 <p align="center">
-  <img src="minesweeperpreview.png" alt="Minesweeper" width="800" height="400"/>
+  <img src="minesweeperpreview.png" alt="Minesweeper" width="800" height="1200"/>
 </p>
 
 <h4 align="left">
