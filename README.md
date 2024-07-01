@@ -3,7 +3,7 @@
 
 <h2 align="left">Education</h2>
 <div display="flex" justify-content="space-between">
-<p align="left" font-weight="bold">National Taiwan University of Science and Technology (Taiwan Tech)</h3>
+<p align="left" font-size="20px" font-weight="bold">National Taiwan University of Science and Technology (Taiwan Tech)</p>
 <p align="right">Taipei,Taiwan</p>
 </div>
 <h3 align="left">Languages and Tools:</h3>
