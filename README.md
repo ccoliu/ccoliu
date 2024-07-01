@@ -4,7 +4,7 @@
 <h2 align="left">Education</h2>
 <div display="flex" justify-content="space-between">
 <h3 font-weight="bold">National Taiwan University of Science and Technology (Taiwan Tech)</h3>
-<h4>Computer Science and Information Engineering</h4>
+<h4>Bachelor of Science, Computer Science and Information Engineering</h4>
 </div>
 
 <h2 align="left">Technical Skills</h2>
