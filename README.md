@@ -6,6 +6,8 @@
 <h3 font-weight="bold">National Taiwan University of Science and Technology (Taiwan Tech)</h3>
 <h4>Computer Science and Information Engineering</h4>
 </div>
+
+<h2 align="left">Technical Skills</h2>
 <h3 align="left">Languages and Tools:</h3>
 
 <h4 align="left">Programming Languages:</h4>
