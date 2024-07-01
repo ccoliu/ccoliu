@@ -72,6 +72,9 @@
 <p align="left">
   Minesweeper is a classic original game that player must completely find all the blocks that is not mine.
 </p>
+<p align="center">
+  <img src="https://github.com/ccoliu/ccoliu/minesweeperpreview.png" alt="Codoctopus Demo GIF" width="800" height="400"/>
+</p>
 
 <h4 align="left">
   <a href="https://github.com/ccoliu/Chess" target="_blank">Chess</a>
