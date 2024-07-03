@@ -1,6 +1,6 @@
 <h1 align="center">Chia-Cheng Liu</h1>
 <h3 align="center">Email: frgnd5433@gmail.com</h3>
-![LeetCode Stats](https://leetcard.jacoblin.cool/ccoliu?theme=dark&font=Anek%20Malayalam)(https://leetcode.com/u/ccoliu/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ccoliu?theme=dark&font=Anek%20Malayalam)](https://leetcode.com/u/ccoliu/)
 
 <h2 align="left">Education</h2>
 <div display="flex" justify-content="space-between">
