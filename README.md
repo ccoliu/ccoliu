@@ -2,7 +2,7 @@
 <h3 align="center">Email: frgnd5433@gmail.com</h3>
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/ccoliu?hide=ranking&width=250&height=100&theme=dark&font=Anek%20Malayalam)](https://leetcode.com/u/ccoliu/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ccoliu?hide=ranking&width=500&height=200&theme=dark&font=Anek%20Malayalam)](https://leetcode.com/u/ccoliu/)
 
 
 </div>
