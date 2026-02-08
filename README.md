@@ -62,7 +62,7 @@
 <h2 align="left">Projects and works</h3>
 
 <h4 align="left">
-  <a href="https://github.com/ccoliu/Codoctopus" target="_blank">Codoctopus Website</a>
+  <a href="https://github.com/ccoliu/Codoctopus" target="_blank">Codoctopus</a>
 </h4>
 <p align="left">
   Codoctopus is a fully automated task division robot. It automatically splits your work into different tasks and executes them step by step, currently used for writing code and other tasks.
