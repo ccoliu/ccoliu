@@ -68,7 +68,7 @@
   Codoctopus is a fully automated task division robot. It automatically splits your work into different tasks and executes them step by step, currently used for writing code and other tasks.
 </p>
 <p align="center">
-  <img src="https://github.com/ccoliu/Codoctopus/blob/main/CodoctopusDemo.gif" alt="Codoctopus Demo GIF" width="800" height="400"/>
+  <img src="CodoctopusDemo.gif" alt="Codoctopus Demo GIF" width="800" height="400"/>
 </p>
 
 <h4 align="left">
