@@ -76,6 +76,9 @@
   A distributed task scheduling and execution platform inspired by Apache Airflow and Celery. Supports the full task lifecycle, priority queues, delayed and cron-based scheduling, retries with exponential backoff, DAG workflows with a drag-and-drop visual builder, Redis sliding-window rate limiting, and real-time status push over WebSocket.
 </p>
 <p align="left"><i>FastAPI · Celery · PostgreSQL · Redis · React · Docker Compose</i></p>
+<p align="center">
+  <img src="coworkifypreview.png" alt="Coworkify workflow run with conditional branches" width="800"/>
+</p>
 
 <h3 align="left">
   <a href="https://github.com/ccoliu/mini-bmc" target="_blank">mini-bmc</a>
