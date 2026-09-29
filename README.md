@@ -2,8 +2,6 @@
 <h3 align="center">Email: frgnd5433@gmail.com</h3>
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/ccoliu?hide=ranking&width=500&height=200&theme=dark&font=Anek%20Malayalam)](https://leetcode.com/u/ccoliu/)
-
 </div>
 
 <h2 align="left">About Me</h2>
@@ -66,7 +64,6 @@
 </p>
 <p align="left"><i>Python · asyncio · Pydantic · FastAPI · React · TypeScript</i></p>
 <p align="center">
-  <img src="CodoctopusDemo.gif" alt="Codoctopus Demo GIF" width="800" height="400"/>
 </p>
 
 <h3 align="left">
